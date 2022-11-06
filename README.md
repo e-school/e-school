@@ -8,8 +8,8 @@ The utiliies can be rated and discussed in opensource community with pros & cons
 # Why it is named as e-school
 Primary goal of e-school is to help opensource users as a learning place before they adopt any framework or utility into their projects. e-school helps developers to take critical decisions in the deverloper experience.
 
-# How to I find the code for a particular course?
-There would be different repository for each type of utility. In each utility type repo there would different readme.md files which describe about the utility. 
+# What does e-school contains?
+There would be different repository for each type of utility. In each utility type repo there would different readme.md files which describe about the utility.
 
 ### Remember: 
 **one repository = one type of utility. ex: validations, docker images, micro services frameworks, ui frameworks...etc.
@@ -21,3 +21,5 @@ You are most welcome to create PRs for the any repository and write about your f
 # What next?
 It is starting place as of now, expected to grow together in coming days.
 
+
+NOTE: The details captured on e-shool is purely based on the research done by developers and rated by opensource developers. It might not be the final decision to anyone who wants to use the framework
