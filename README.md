@@ -11,15 +11,15 @@ e-school git project is the base repository which contains links to all other su
 Here are the current repositories in e-school:
 
 ## Java Repositories:
-1. java-validation-utilities[https://github.com/e-school/java-validation-utilities]
+1. [java-validation-utilities](https://github.com/e-school/java-validation-utilities)
 
 
 ## Javascript Repositories:
-1. javascript-json-utilities[https://github.com/e-school/javascript-json-utilities]
+1. [javascript-json-utilities](https://github.com/e-school/javascript-json-utilities)
 
 ## Kotlin Repositories:
-1. kotlin-validation-utilities[https://github.com/e-school/kotlin-validation-utilities]
+1. [kotlin-validation-utilities](https://github.com/e-school/kotlin-validation-utilities)
 
 
 Docker Repositories:
-1. docker-compose-utilities[https://github.com/e-school/docker-compose-utilities]
+1. [docker-compose-utilities](https://github.com/e-school/docker-compose-utilities)
